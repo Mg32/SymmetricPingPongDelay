@@ -1,6 +1,6 @@
 # Symmetric PingPong Delay
 
-A symmetrically balanced Pingpong Delay VST3.
+Simple ping pong delay with symmetrically aligned pan. VST3.
 
 ## License
 
